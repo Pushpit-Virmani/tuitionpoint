@@ -1,0 +1,22 @@
+C:\Users\dell\Documents\Tuitionpoint\android-build\bin\QtApp-debug-unaligned.apk : \
+C:\Users\dell\Documents\Tuitionpoint\android-build\bin\QtApp.ap_ \
+C:\Users\dell\Documents\Tuitionpoint\android-build\bin\classes.dex \
+C:\Users\dell\Documents\Tuitionpoint\android-build\libs\QtAndroid-bundled.jar \
+C:\Users\dell\Documents\Tuitionpoint\android-build\libs\armeabi-v7a\gdbserver \
+C:\Users\dell\Documents\Tuitionpoint\android-build\libs\armeabi-v7a\libgdbserver.so \
+C:\Users\dell\Documents\Tuitionpoint\android-build\libs\armeabi-v7a\libgnustl_shared.so \
+C:\Users\dell\Documents\Tuitionpoint\android-build\libs\armeabi-v7a\libplugins_imageformats_libqgif.so \
+C:\Users\dell\Documents\Tuitionpoint\android-build\libs\armeabi-v7a\libplugins_imageformats_libqicns.so \
+C:\Users\dell\Documents\Tuitionpoint\android-build\libs\armeabi-v7a\libplugins_imageformats_libqico.so \
+C:\Users\dell\Documents\Tuitionpoint\android-build\libs\armeabi-v7a\libplugins_imageformats_libqjpeg.so \
+C:\Users\dell\Documents\Tuitionpoint\android-build\libs\armeabi-v7a\libplugins_imageformats_libqtga.so \
+C:\Users\dell\Documents\Tuitionpoint\android-build\libs\armeabi-v7a\libplugins_imageformats_libqtiff.so \
+C:\Users\dell\Documents\Tuitionpoint\android-build\libs\armeabi-v7a\libplugins_imageformats_libqwbmp.so \
+C:\Users\dell\Documents\Tuitionpoint\android-build\libs\armeabi-v7a\libplugins_imageformats_libqwebp.so \
+C:\Users\dell\Documents\Tuitionpoint\android-build\libs\armeabi-v7a\libplugins_platforms_android_libqtforandroid.so \
+C:\Users\dell\Documents\Tuitionpoint\android-build\libs\armeabi-v7a\libplugins_sqldrivers_libqsqlite.so \
+C:\Users\dell\Documents\Tuitionpoint\android-build\libs\armeabi-v7a\libQt5Core.so \
+C:\Users\dell\Documents\Tuitionpoint\android-build\libs\armeabi-v7a\libQt5Gui.so \
+C:\Users\dell\Documents\Tuitionpoint\android-build\libs\armeabi-v7a\libQt5Sql.so \
+C:\Users\dell\Documents\Tuitionpoint\android-build\libs\armeabi-v7a\libQt5Widgets.so \
+C:\Users\dell\Documents\Tuitionpoint\android-build\libs\armeabi-v7a\libTuitionpoint.so \
